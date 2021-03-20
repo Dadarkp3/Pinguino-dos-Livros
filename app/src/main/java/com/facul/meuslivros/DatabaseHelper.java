@@ -35,9 +35,9 @@ class DatabaseHelper extends SQLiteOpenHelper {
                 " (" + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, " +
                 COLUMN_TITLE + " TEXT, " +
                 COLUMN_AUTHOR + " TEXT, " +
+                COLUMN_PAGES + " INTEGER, " +
                 COLUMN_VALUE + " REAL, " +
-                COLUMN_EDITION + " INTEGER, " +
-                COLUMN_PAGES + " INTEGER);";
+                COLUMN_EDITION + " INTEGER);";
         db.execSQL(query);
     }
     @Override
