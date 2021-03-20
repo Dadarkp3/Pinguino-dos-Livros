@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="screen" src="./header.png" />
+  <img align="center" alt="screen" src="./gitresources/header.png" />
 </P>
 <p>
 O seu próprio gerenciador de livros, saiba quantos livros você tem, quanto pagou por eles, a quantidade de páginas, e muito mais. Edite, delete e faça o que mais tiver vontade!
@@ -20,10 +20,10 @@ Adicione
 
 ## Screenshots
 
-<img align="left" width="150" height="250" src="./screen1.png"> &nbsp; <img width="150" height="250" src="./screen2.png"> &nbsp;
-<img  width="150" height="250" src="./screen3.png"> &nbsp;
-<img  width="150" height="250" src="./screen4.png"> &nbsp;
-<img  width="150" height="250" src="./screen5.png">
+<img align="left" width="150" height="250" src="./gitresources/screen1.png"> &nbsp; <img width="150" height="250" src="./gitresources/screen2.png"> &nbsp;
+<img  width="150" height="250" src="./gitresources/screen3.png"> &nbsp;
+<img  width="150" height="250" src="./gitresources/screen4.png"> &nbsp;
+<img  width="150" height="250" src="./gitresources/screen5.png">
 
 ---
 
