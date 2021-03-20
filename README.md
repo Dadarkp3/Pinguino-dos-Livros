@@ -14,7 +14,7 @@
 <p>
 O seu próprio gerenciador de livros, saiba quantos livros você tem, quanto pagou por eles, a quantidade de páginas, e muito mais. Edite, delete e faça o que mais tiver vontade!
 
-Esse projeto é um estudo de caso de Android e SQLite. 
+Esse projeto é um estudo de caso de Android com Java e SQLite. 
 
 </p>
 
